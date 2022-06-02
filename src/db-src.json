@@ -1,0 +1,41 @@
+{
+    "books": [
+      {
+        "id": 1,
+        "title": "The last kingdom",
+        "author": "Bernard Cornwell",
+        "genres": [
+          "adventure"
+        ],
+        "rating": 8.38
+      },
+      {
+        "id": 2,
+        "title": "Beside still waters",
+        "author": "Robert Sheckley",
+        "genres": [
+          "science fiction"
+        ],
+        "rating": 8.51
+      },
+      {
+        "id": 3,
+        "title": "The Ghost-Eater",
+        "author": "Howard Lovecraft",
+        "genres": [
+          "horror",
+          "mystic"
+        ],
+        "rating": 7.94
+      },
+      {
+        "id": 4,
+        "title": "Entlarvung eines Bauernfängers",
+        "author": "Franz Kafka",
+        "genres": [
+          "drama"
+        ],
+        "rating": 6.62
+      }
+    ]
+  }
